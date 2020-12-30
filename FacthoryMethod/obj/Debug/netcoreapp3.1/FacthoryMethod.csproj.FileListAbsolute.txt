@@ -1,0 +1,26 @@
+C:\Users\Marcio\source\repos\FacthoryMethod\FacthoryMethod\bin\Debug\netcoreapp3.1\FacthoryMethod.exe
+C:\Users\Marcio\source\repos\FacthoryMethod\FacthoryMethod\bin\Debug\netcoreapp3.1\FacthoryMethod.deps.json
+C:\Users\Marcio\source\repos\FacthoryMethod\FacthoryMethod\bin\Debug\netcoreapp3.1\FacthoryMethod.runtimeconfig.json
+C:\Users\Marcio\source\repos\FacthoryMethod\FacthoryMethod\bin\Debug\netcoreapp3.1\FacthoryMethod.runtimeconfig.dev.json
+C:\Users\Marcio\source\repos\FacthoryMethod\FacthoryMethod\bin\Debug\netcoreapp3.1\FacthoryMethod.dll
+C:\Users\Marcio\source\repos\FacthoryMethod\FacthoryMethod\bin\Debug\netcoreapp3.1\FacthoryMethod.pdb
+C:\Users\Marcio\source\repos\FacthoryMethod\FacthoryMethod\obj\Debug\netcoreapp3.1\FacthoryMethod.csprojAssemblyReference.cache
+C:\Users\Marcio\source\repos\FacthoryMethod\FacthoryMethod\obj\Debug\netcoreapp3.1\FacthoryMethod.AssemblyInfoInputs.cache
+C:\Users\Marcio\source\repos\FacthoryMethod\FacthoryMethod\obj\Debug\netcoreapp3.1\FacthoryMethod.AssemblyInfo.cs
+C:\Users\Marcio\source\repos\FacthoryMethod\FacthoryMethod\obj\Debug\netcoreapp3.1\FacthoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Marcio\source\repos\FacthoryMethod\FacthoryMethod\obj\Debug\netcoreapp3.1\FacthoryMethod.dll
+C:\Users\Marcio\source\repos\FacthoryMethod\FacthoryMethod\obj\Debug\netcoreapp3.1\FacthoryMethod.pdb
+C:\Users\Marcio\source\repos\FacthoryMethod\FacthoryMethod\obj\Debug\netcoreapp3.1\FacthoryMethod.genruntimeconfig.cache
+C:\Users\Marcio\Desktop\Curso WebDev\DIO\_upload github\03 design patterns c#\FacthoryMethod\FacthoryMethod\bin\Debug\netcoreapp3.1\FacthoryMethod.exe
+C:\Users\Marcio\Desktop\Curso WebDev\DIO\_upload github\03 design patterns c#\FacthoryMethod\FacthoryMethod\bin\Debug\netcoreapp3.1\FacthoryMethod.deps.json
+C:\Users\Marcio\Desktop\Curso WebDev\DIO\_upload github\03 design patterns c#\FacthoryMethod\FacthoryMethod\bin\Debug\netcoreapp3.1\FacthoryMethod.runtimeconfig.json
+C:\Users\Marcio\Desktop\Curso WebDev\DIO\_upload github\03 design patterns c#\FacthoryMethod\FacthoryMethod\bin\Debug\netcoreapp3.1\FacthoryMethod.runtimeconfig.dev.json
+C:\Users\Marcio\Desktop\Curso WebDev\DIO\_upload github\03 design patterns c#\FacthoryMethod\FacthoryMethod\bin\Debug\netcoreapp3.1\FacthoryMethod.dll
+C:\Users\Marcio\Desktop\Curso WebDev\DIO\_upload github\03 design patterns c#\FacthoryMethod\FacthoryMethod\bin\Debug\netcoreapp3.1\FacthoryMethod.pdb
+C:\Users\Marcio\Desktop\Curso WebDev\DIO\_upload github\03 design patterns c#\FacthoryMethod\FacthoryMethod\obj\Debug\netcoreapp3.1\FacthoryMethod.csprojAssemblyReference.cache
+C:\Users\Marcio\Desktop\Curso WebDev\DIO\_upload github\03 design patterns c#\FacthoryMethod\FacthoryMethod\obj\Debug\netcoreapp3.1\FacthoryMethod.AssemblyInfoInputs.cache
+C:\Users\Marcio\Desktop\Curso WebDev\DIO\_upload github\03 design patterns c#\FacthoryMethod\FacthoryMethod\obj\Debug\netcoreapp3.1\FacthoryMethod.AssemblyInfo.cs
+C:\Users\Marcio\Desktop\Curso WebDev\DIO\_upload github\03 design patterns c#\FacthoryMethod\FacthoryMethod\obj\Debug\netcoreapp3.1\FacthoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Marcio\Desktop\Curso WebDev\DIO\_upload github\03 design patterns c#\FacthoryMethod\FacthoryMethod\obj\Debug\netcoreapp3.1\FacthoryMethod.dll
+C:\Users\Marcio\Desktop\Curso WebDev\DIO\_upload github\03 design patterns c#\FacthoryMethod\FacthoryMethod\obj\Debug\netcoreapp3.1\FacthoryMethod.pdb
+C:\Users\Marcio\Desktop\Curso WebDev\DIO\_upload github\03 design patterns c#\FacthoryMethod\FacthoryMethod\obj\Debug\netcoreapp3.1\FacthoryMethod.genruntimeconfig.cache
